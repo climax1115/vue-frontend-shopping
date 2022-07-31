@@ -1,6 +1,4 @@
-# vuejs
-
-> A Vue.js project
+# Vue.js Front-end Project
 
 ## Build Setup
 
