@@ -1,4 +1,4 @@
-# Vue.js Front-end Project
+# Vue.js Shopping Front End
 
 ## Build Setup
 
